@@ -39,9 +39,9 @@
      inkscape:window-height="871"
      id="namedview854"
      showgrid="true"
-     inkscape:zoom="3.0833204"
-     inkscape:cx="314.93804"
-     inkscape:cy="455.46955"
+     inkscape:zoom="1.5968531"
+     inkscape:cx="263.65859"
+     inkscape:cy="638.76476"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -2168,7 +2168,7 @@
   <path
      style="fill:#ff1234;fill-opacity:1;stroke:none"
      id="toolbar-handle"
-     d="m 193.27857,100 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z"
+     d="m 153,120 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z"
      inkscape:connector-curvature="0" />
   <g
      style="color:#000000;fill-rule:evenodd;stroke:none"
@@ -5279,7 +5279,7 @@
      inkscape:label="#itemview-focused-bottomleft" />
   <g
      id="toolbar-separator"
-     transform="translate(-16.651264,65)"
+     transform="translate(-65,85)"
      inkscape:label="#toolbar-separator">
     <path
        id="toolbar-separator-3"
