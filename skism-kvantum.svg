@@ -39,9 +39,9 @@
      inkscape:window-height="871"
      id="namedview854"
      showgrid="true"
-     inkscape:zoom="1.5968531"
-     inkscape:cx="263.65859"
-     inkscape:cy="638.76476"
+     inkscape:zoom="39.620404"
+     inkscape:cx="201.33747"
+     inkscape:cy="559.88538"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -2151,7 +2151,7 @@
      height="5"
      id="menubaritem-pressed-bottom" />
   <rect
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      width="5"
      x="148.27856"
      y="280"
@@ -2372,56 +2372,56 @@
      width="5" />
   <rect
      id="menubaritem-toggled"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="275"
      x="148.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-left"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="275"
      x="143.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-bottomleft"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="280"
      x="143.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-right"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="275"
      x="153.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-bottomright"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="280"
      x="153.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-top"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="270"
      x="148.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-topleft"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="270"
      x="143.27856"
      width="5" />
   <rect
      id="menubaritem-toggled-topright"
-     style="opacity:1;fill:#6e7074;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5a5c60;fill-opacity:1;stroke:none"
      height="5"
      y="270"
      x="153.27856"
@@ -3341,19 +3341,19 @@
        style="fill:#505256;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </g>
   <g
-     transform="translate(61.700522,-1062)"
      id="menuitem-separator"
-     style="opacity:0;fill-rule:evenodd;stroke:none">
+     inkscape:label="#menuitem-separator">
     <path
-       d="m 164,1294.5 h -24 v 10 h 24 z"
+       d="m 214,229.75 h -24 v 20 h 24 z"
        id="menuitem-separator0"
-       style="opacity:0"
+       style="opacity:0;fill:#f227be;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421354"
        inkscape:connector-curvature="0" />
     <path
-       d="m 164,1298.5 h -24 v 2 h 24 z"
+       d="m 214,239.19213 -24,0.0222 v 1.05354 l 24,-5e-5 z"
        id="path8751"
-       style="fill:url(#linearGradient8775)"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.928;fill:#3c3d3e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <rect
      style="opacity:1;fill:#1e2024;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
