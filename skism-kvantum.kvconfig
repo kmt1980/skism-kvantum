@@ -28,8 +28,8 @@ progressbar_thickness=2
 menubar_mouse_tracking=true
 toolbutton_style=0
 double_click=true
-translucent_windows=false
-blurring=false
+translucent_windows=true
+blurring=true
 popup_blurring=true
 vertical_spin_indicators=true
 spin_button_width=22
@@ -58,17 +58,21 @@ tooltip_delay=-1
 tree_branch_line=true
 no_window_pattern=false
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,trojita,dragon,digikam
-reduce_window_opacity=20
+reduce_window_opacity=6
 respect_DE=false
 scrollable_menu=false
 submenu_delay=250
 no_inactiveness=false
 reduce_menu_opacity=0
+contrast=1.00
+dialog_button_layout=0
+intensity=1.00
+saturation=1.00
 
 [GeneralColors]
 window.color=#08090a
-base.color=#101113
-alt.base.color=#0c0d0e
+base.color=#101112
+alt.base.color=#0e0f10
 button.color=orange
 light.color=#2c2e32
 mid.light.color=#2c2e32
@@ -108,6 +112,7 @@ no_selection_tint=true
 transparent_arrow_button=true
 middle_click_scroll=false
 opaque_colors=false
+scroll_jump_workaround=false
 
 [PanelButtonCommand]
 frame=true
@@ -312,14 +317,10 @@ inherits=PanelButtonCommand
 indicator.element=toolbar
 indicator.size=5
 text.margin=0
-interior.element=toolbar
-frame.element=toolbar
+interior=false
+frame=false
 text.normal.color=#d6d6d6
 text.focus.color=red
-frame.left=4
-frame.right=4
-frame.top=4
-frame.bottom=4
 
 [Slider]
 inherits=PanelButtonCommand
@@ -422,7 +423,9 @@ frame.expansion=0
 
 [MenuBar]
 inherits=PanelButtonCommand
+frame=false
 frame.element=menubar
+interior=false
 interior.element=menubar
 frame.bottom=0
 text.normal.color=#d6d6d6
