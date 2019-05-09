@@ -28,12 +28,12 @@ progressbar_thickness=2
 menubar_mouse_tracking=true
 toolbutton_style=0
 double_click=true
-translucent_windows=false
-blurring=false
+translucent_windows=true
+blurring=true
 popup_blurring=true
-vertical_spin_indicators=true
-spin_button_width=22
-fill_rubberband=false
+vertical_spin_indicators=false
+spin_button_width=16
+fill_rubberband=true
 merge_menubar_with_toolbar=false
 small_icon_size=16
 large_icon_size=32
@@ -41,15 +41,15 @@ button_icon_size=16
 toolbar_icon_size=22
 combo_as_lineedit=true
 animate_states=true
-button_contents_shift=true
+button_contents_shift=false
 combo_menu=true
 hide_combo_checkboxes=true
 combo_focus_rect=false
 groupbox_top_label=true
 inline_spin_indicators=true
 joined_inactive_tabs=false
-layout_spacing=6
-layout_margin=9
+layout_spacing=5
+layout_margin=12
 scrollbar_in_view=true
 transient_scrollbar=true
 transient_groove=true
@@ -63,7 +63,7 @@ respect_DE=false
 scrollable_menu=false
 submenu_delay=250
 no_inactiveness=false
-reduce_menu_opacity=0
+reduce_menu_opacity=4
 contrast=1.00
 dialog_button_layout=0
 intensity=1.00
@@ -94,7 +94,7 @@ progress.indicator.text.color=red
 [Hacks]
 transparent_ktitle_label=false
 transparent_dolphin_view=true
-transparent_pcmanfm_sidepane=false
+transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=false
 respect_darkness=true
@@ -111,8 +111,8 @@ transparent_pcmanfm_view=false
 no_selection_tint=true
 transparent_arrow_button=true
 middle_click_scroll=false
-opaque_colors=false
-scroll_jump_workaround=false
+opaque_colors=true
+scroll_jump_workaround=true
 
 [PanelButtonCommand]
 frame=true
@@ -137,39 +137,17 @@ text.margin.left=5
 text.margin.right=5
 
 [PanelButtonTool]
-frame.element=button
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
-interior=true
-interior.element=button
+inherits=PanelButtonCommand
 text.normal.color=#d6d6d6
-text.focus.color=#ffffff
-text.press.color=#d6d6d6
-text.toggle.color=#ffffff
-text.bold=false
-indicator.element=arrow
-text.margin.top=5
-text.margin.bottom=5
-text.margin.left=5
-text.margin.right=5
+text.bold=true
 
 [ToolbarButton]
 frame.element=tbutton
-frame.top=5
-frame.bottom=5
-frame.left=5
-frame.right=5
 interior.element=tbutton
-indicator.size=10
 text.focus.color=#ffffff
 text.press.color=#e6e6e6
 text.toggle.color=#e6e6e6
-text.margin.top=5
-text.margin.bottom=5
-text.margin.left=5
-text.margin.right=5
+
 
 [Dock]
 interior.element=dock
@@ -549,6 +527,6 @@ frame=false
 
 [WindowTranslucent]
 interior=true
-interior.element=common
+interior.element=window
 interior.x.patternsize=48
 interior.y.patternsize=48

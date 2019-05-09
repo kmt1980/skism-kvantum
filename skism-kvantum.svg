@@ -39,9 +39,9 @@
      inkscape:window-height="2020"
      id="namedview854"
      showgrid="true"
-     inkscape:zoom="22.627418"
-     inkscape:cx="113.18335"
-     inkscape:cy="723.15384"
+     inkscape:zoom="32.000001"
+     inkscape:cx="159.5232"
+     inkscape:cy="703.70841"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -6485,14 +6485,14 @@
      inkscape:label="#tbutton-normal-bottomleft" />
   <rect
      id="tbutton-focused"
-     style="opacity:0.13999999;fill:none;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#1a1b1e;fill-opacity:1;stroke:none"
      height="5"
      y="95"
      x="130"
      width="5"
      inkscape:label="#tbutton-focused" />
   <rect
-     style="opacity:0.13999999;fill:none;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#1a1b1e;fill-opacity:1;stroke:none"
      width="5"
      x="125"
      y="95"
@@ -6500,7 +6500,7 @@
      id="tbutton-focused-left"
      inkscape:label="#tbutton-focused-left" />
   <rect
-     style="opacity:0.13999999;fill:none;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#1a1b1e;fill-opacity:1;stroke:none"
      width="5"
      x="125"
      y="90"
@@ -6508,7 +6508,7 @@
      id="tbutton-focused-topleft"
      inkscape:label="#tbutton-focused-topleft" />
   <rect
-     style="opacity:0.13999999;fill:none;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#1a1b1e;fill-opacity:1;stroke:none"
      width="5"
      x="90"
      y="-135"
@@ -6517,7 +6517,7 @@
      transform="rotate(90)"
      inkscape:label="#tbutton-focused-top" />
   <rect
-     style="opacity:0.13999999;fill:none;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#1a1b1e;fill-opacity:1;stroke:none"
      width="5"
      x="135"
      y="90"
@@ -6525,7 +6525,7 @@
      id="tbutton-focused-topright"
      inkscape:label="#tbutton-focused-topright" />
   <rect
-     style="opacity:0.13999999;fill:none;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#1a1b1e;fill-opacity:1;stroke:none"
      width="5"
      x="135"
      y="95"
@@ -6533,7 +6533,7 @@
      id="tbutton-focused-right"
      inkscape:label="tbutton-focused-right" />
   <rect
-     style="fill:none;fill-opacity:1;stroke:none"
+     style="fill:#1a1b1e;fill-opacity:1;stroke:none;opacity:1"
      width="5"
      x="135"
      y="100"
@@ -6541,7 +6541,7 @@
      id="tbutton-focused-bottomright"
      inkscape:label="#tbutton-focused-bottomright" />
   <rect
-     style="fill:none;fill-opacity:1;stroke:none"
+     style="fill:#1a1b1e;fill-opacity:1;stroke:none;opacity:1"
      width="5"
      x="-105"
      y="130"
@@ -6550,7 +6550,7 @@
      transform="rotate(-90)"
      inkscape:label="#tbutton-focused-bottom" />
   <rect
-     style="fill:none;fill-opacity:1;stroke:none"
+     style="fill:#1a1b1e;fill-opacity:1;stroke:none;opacity:1"
      width="5"
      x="125"
      y="100"
@@ -6607,31 +6607,6 @@
      id="tbutton-pressed-right"
      inkscape:label="#tbutton-pressed-right" />
   <rect
-     style="fill:#18eda0;fill-opacity:1;stroke:none"
-     width="5"
-     x="155"
-     y="100"
-     height="5"
-     id="tbutton-pressed-bottomright"
-     inkscape:label="#tbutton-pressed-bottomright" />
-  <rect
-     style="fill:#18eda0;fill-opacity:1;stroke:none"
-     width="5"
-     x="-105"
-     y="150"
-     height="5"
-     id="tbutton-pressed-bottom"
-     transform="rotate(-90)"
-     inkscape:label="#tbutton-pressed-bottom" />
-  <rect
-     style="fill:#18eda0;fill-opacity:1;stroke:none"
-     width="5"
-     x="145"
-     y="100"
-     height="5"
-     id="tbutton-pressed-bottomleft"
-     inkscape:label="#tbutton-pressed-bottomleft" />
-  <rect
      id="tbutton-toggled"
      style="fill:none;fill-opacity:1;stroke:none"
      height="5"
@@ -6680,31 +6655,6 @@
      height="5"
      id="tbutton-toggled-right"
      inkscape:label="#tbutton-toggled-right" />
-  <rect
-     style="fill:#2cfab0;fill-opacity:1;stroke:none"
-     width="5"
-     x="175"
-     y="100"
-     height="5"
-     id="tbutton-toggled-bottomright"
-     inkscape:label="#tbutton-toggled-bottomright" />
-  <rect
-     style="fill:#2cfab0;fill-opacity:1;stroke:none"
-     width="5"
-     x="-105"
-     y="170"
-     height="5"
-     id="tbutton-toggled-bottom"
-     transform="rotate(-90)"
-     inkscape:label="#tbutton-toggled-bottom" />
-  <rect
-     style="fill:#2cfab0;fill-opacity:1;stroke:none"
-     width="5"
-     x="165"
-     y="100"
-     height="5"
-     id="tbutton-toggled-bottomleft"
-     inkscape:label="#tbutton-toggled-bottomleft" />
   <rect
      width="5"
      x="128.27856"
@@ -7442,7 +7392,7 @@
      width="5"
      inkscape:label="#lineedit-normal" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="123.27857"
      y="175"
@@ -7450,7 +7400,7 @@
      id="lineedit-normal-left"
      inkscape:label="#lineedit-normal-left" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="123.27857"
      y="170"
@@ -7458,7 +7408,7 @@
      id="lineedit-normal-topleft"
      inkscape:label="#lineedit-normal-topleft" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="170"
      y="-133.27856"
@@ -7467,7 +7417,7 @@
      transform="rotate(90)"
      inkscape:label="#lineedit-normal-top" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="133.27856"
      y="170"
@@ -7475,7 +7425,7 @@
      id="lineedit-normal-topright"
      inkscape:label="#lineedit-normal-topright" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="133.27856"
      y="175"
@@ -7483,7 +7433,7 @@
      id="lineedit-normal-right"
      inkscape:label="#lineedit-normal-right" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="133.27856"
      y="180"
@@ -7491,7 +7441,7 @@
      id="lineedit-normal-bottomright"
      inkscape:label="#lineedit-normal-bottomright" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="-185"
      y="128.27856"
@@ -7500,7 +7450,7 @@
      transform="rotate(-90)"
      inkscape:label="#lineedit-normal-bottom" />
   <rect
-     style="fill:#1e2024;fill-opacity:1;stroke:none"
+     style="fill:#282a2e;fill-opacity:1;stroke:none"
      width="5"
      x="123.27857"
      y="180"
@@ -9762,4 +9712,136 @@
      d="M 125,150.45406 V 165 h 15 v -14.54594 z"
      inkscape:connector-curvature="0"
      inkscape:label="#common-normal" />
+  <g
+     id="tbutton-toggled-bottom"
+     transform="translate(-12.452606)"
+     inkscape:label="#tbutton-toggled--bottom">
+    <rect
+       inkscape:label="#tbutton-toggled-bottomright"
+       id="tbutton-toggled-bottomright-3"
+       height="5"
+       y="100"
+       x="182.45261"
+       width="5"
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#tbutton-toggled-bottom"
+       transform="rotate(-90)"
+       id="asd"
+       height="5"
+       y="182.45261"
+       x="-105"
+       width="1.828125"
+       style="fill:#2cfab0;fill-opacity:1;stroke:none;stroke-width:0.44721359" />
+  </g>
+  <g
+     id="tbutton-toggled-bottomright"
+     transform="translate(-7.4526062)"
+     inkscape:label="#tbutton-toggled-bottomright">
+    <rect
+       inkscape:label="#tbutton-toggled-bottomright"
+       id="tbutton-toggled-bottomright-3-7"
+       height="5"
+       y="100"
+       x="182.45261"
+       width="5"
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#tbutton-toggled-bottom"
+       transform="rotate(-90)"
+       id="asd-5"
+       height="5"
+       y="182.45261"
+       x="-105"
+       width="1.828125"
+       style="fill:#2cfab0;fill-opacity:1;stroke:none;stroke-width:0.44721359" />
+  </g>
+  <g
+     id="tbutton-toggled-bottomleft"
+     transform="translate(-17.452606)"
+     inkscape:label="#tbutton-toggled-bottomleft">
+    <rect
+       inkscape:label="#tbutton-toggled-bottomright"
+       id="tbutton-toggled-bottomright-3-5"
+       height="5"
+       y="100"
+       x="182.45261"
+       width="5"
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#tbutton-toggled-bottom"
+       transform="rotate(-90)"
+       id="asd-6"
+       height="5"
+       y="182.45261"
+       x="-105"
+       width="1.828125"
+       style="fill:#2cfab0;fill-opacity:1;stroke:none;stroke-width:0.44721359" />
+  </g>
+  <g
+     id="tbutton-pressed-bottomright"
+     transform="translate(-27.452606)"
+     inkscape:label="tbutton-pressed-bottomright">
+    <rect
+       inkscape:label="#tbutton-toggled-bottomright"
+       id="tbutton-toggled-bottomright-3-5-9"
+       height="5"
+       y="100"
+       x="182.45261"
+       width="5"
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#tbutton-toggled-bottom"
+       transform="rotate(-90)"
+       id="asd-6-1"
+       height="5"
+       y="182.45261"
+       x="-105"
+       width="1.828125"
+       style="fill:#2cfab0;fill-opacity:1;stroke:none;stroke-width:0.44721359" />
+  </g>
+  <g
+     id="tbutton-pressed-bottom"
+     transform="translate(-32.452606)"
+     inkscape:label="#tbutton-pressed-bottom">
+    <rect
+       inkscape:label="#tbutton-toggled-bottomright"
+       id="tbutton-toggled-bottomright-3-5-9-7"
+       height="5"
+       y="100"
+       x="182.45261"
+       width="5"
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#tbutton-toggled-bottom"
+       transform="rotate(-90)"
+       id="asd-6-1-0"
+       height="5"
+       y="182.45261"
+       x="-105"
+       width="1.828125"
+       style="fill:#2cfab0;fill-opacity:1;stroke:none;stroke-width:0.44721359" />
+  </g>
+  <g
+     id="tbutton-pressed-bottomleft"
+     transform="translate(-37.452606)"
+     inkscape:label="#tbutton-pressed-bottomleft">
+    <rect
+       inkscape:label="#tbutton-toggled-bottomright"
+       id="tbutton-toggled-bottomright-3-5-9-3"
+       height="5"
+       y="100"
+       x="182.45261"
+       width="5"
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:label="#tbutton-toggled-bottom"
+       transform="rotate(-90)"
+       id="asd-6-1-6"
+       height="5"
+       y="182.45261"
+       x="-105"
+       width="1.828125"
+       style="fill:#2cfab0;fill-opacity:1;stroke:none;stroke-width:0.44721359" />
+  </g>
 </svg>
