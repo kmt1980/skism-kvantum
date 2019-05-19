@@ -148,8 +148,8 @@ text.margin.right=6
 frame.element=tbutton
 interior.element=tbutton
 text.focus.color=#ffffff
-text.press.color=#e6e6e6
-text.toggle.color=#e6e6e6
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 
 
 [Dock]
