@@ -138,15 +138,18 @@ text.margin.left=6
 text.margin.right=6
 
 [PanelButtonTool]
+frame=false
+interior.element=tbutton
 text.normal.color=#e6e6e6
 text.focus.color=#ffffff
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 text.bold=false
-text.margin.top=6
-text.margin.bottom=6
-text.margin.left=6
-text.margin.right=6
+text.margin.top=8
+text.margin.bottom=8
+text.margin.left=8
+text.margin.right=8
+
 
 [ToolbarButton]
 frame.element=tbutton
@@ -154,6 +157,7 @@ interior.element=tbutton
 text.focus.color=#ffffff
 text.press.color=#ffffff
 text.toggle.color=#ffffff
+
 
 
 [Dock]
